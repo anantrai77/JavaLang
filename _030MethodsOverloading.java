@@ -32,6 +32,5 @@ public class _030MethodsOverloading {
         foo();
         foo(3000);
         foo(200, 300);
-
     }
 }
