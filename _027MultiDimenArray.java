@@ -15,7 +15,7 @@ public class _027MultiDimenArray {
    for(int i=0; i<flats.length; i++){
     for(int j=0; j<flats[i].length; j++){
         System.out.print(flats[i][j]);
-        System.out.println(" ");
+        System.out.print(" ");
      }
      System.out.println("");
    }

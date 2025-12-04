@@ -27,5 +27,6 @@ public class _044DynamicMethDispatch {
     //SmartPhone sp = new Phone(); ---> Not Allowed
     p.greet();
     p.on(); // SmartPhone wala run hoga (object ka hoga)
+    //p.name();
     }
 }
